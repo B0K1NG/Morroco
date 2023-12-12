@@ -33,7 +33,12 @@ Dive into the form, make your selections, and hit that "Form My Story!" button. 
 
 Remember, this is not just a form; it's an invitation to craft a story that transcends the ordinary. Let your imagination run wild, and let the adventure begin! 🚀
 
-## How to Explore 🗺️
+## Tech Stack 💻
+
+- HTML
+- CSS
+- Visual Studio Code
+  
 ## How to Explore 🗺️
 
 1. **Clone the Repository:**

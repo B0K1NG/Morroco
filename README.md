@@ -1,4 +1,4 @@
-# Form a Story Adventure
+# Form a Story Adventure 📜
 # Introduction 🌌
 Welcome to "Form a Story," a GitHub project that transforms a simple HTML form into a captivating storytelling adventure. Your inputs will shape an imaginative and unpredictable story, creating a unique experience for every user.
 

@@ -1,8 +1,8 @@
-# Davies Burgers 🍔
+# Morocco 🇲🇦
 
-## Introduction 🌌
+## Introduction 🌍
 
-Davies Burgers is a delightful project showcasing a fictional burger joint's website. Crafted with HTML and styled using CSS, it brings a visual and interactive representation of mouthwatering burgers.
+Explore the beauty and culture of Morocco through this captivating webpage. Crafted with HTML and styled using CSS, it offers a virtual journey into the heart of Morocco, accompanied by stunning visuals and insightful narratives.
 
 ## Tech Stack 💻
 
@@ -14,9 +14,9 @@ Davies Burgers is a delightful project showcasing a fictional burger joint's web
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/DaviesBurgers.git
+    git clone https://github.com/yourusername/MoroccoWeb.git
     ```
 
-2. **Open `index.html`** in your preferred web browser to explore the burger menu and design.
+2. **Open `index.html`** in your preferred web browser to immerse yourself in the tales and images of Morocco.
 
-Enjoy the virtual burger experience at Davies Burgers! 😋
+Embark on a digital adventure to discover the magic of Morocco! 🌟

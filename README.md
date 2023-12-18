@@ -1,4 +1,4 @@
-# Morocco 🇲🇦
+# Morocco
 
 ## Introduction 🌍
 
